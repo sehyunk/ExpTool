@@ -19,3 +19,5 @@
     - B-A의 Confidence Interval
     - P value
     - 통계 유의성
+
+- `exp_result_example.ipynb`를 통해 사용 예시를 볼 수 있습니다.
